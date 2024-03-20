@@ -1,0 +1,6 @@
+•	De finisat exercitiu inceput la lectie, de adaugat content corespunzator denumirii.
+✔	De creat o functie care primeste un array de cifre si ASC sau DSC
+daca primeste ASC va sorta lista crescator si vice versa daca va primi DSC, de verificat ca lista primita are doar cifre, daca nu de returnat un mesaj "va rog sa introduceti doar liste de cifre".
+✔	De creat o functie care primeste o listra si un element, functia trebuie sa intoarva indexul acelui element, daca elementul nu este gasit trebuie sa intoarca messaj "not found".
+✔	De creat o functie care va primi un array si va intoarce elementele radacina carora este un numar intreg, ex: [4, 9, 121, 144].
+✔	De creat o functie care primeste o lista de cifre dar va intoarce 2 liste, una cu elemente pare alta cu impare, verificati ca lista are doar cifre.
